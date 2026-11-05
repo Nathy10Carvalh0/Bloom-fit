@@ -1,0 +1,357 @@
+{
+  "settings": {
+    "weight": 84,
+    "height": 161,
+    "age": 24,
+    "sex": "female",
+    "activity": 1.45,
+    "calorieTarget": 1900,
+    "proteinTarget": 120,
+    "challengeStart": "2026-11-05"
+  },
+  "foods": [
+    {
+      "id": "f0",
+      "name": "Arroz branco cozido",
+      "kcal": 128,
+      "protein": 2.5,
+      "carbs": 28.1,
+      "fat": 0.2
+    },
+    {
+      "id": "f1",
+      "name": "Feijão carioca cozido",
+      "kcal": 76,
+      "protein": 4.8,
+      "carbs": 13.6,
+      "fat": 0.5
+    },
+    {
+      "id": "f2",
+      "name": "Peito de frango grelhado",
+      "kcal": 165,
+      "protein": 31,
+      "carbs": 0,
+      "fat": 3.6
+    },
+    {
+      "id": "f3",
+      "name": "Ovo inteiro",
+      "kcal": 143,
+      "protein": 12.6,
+      "carbs": 0.7,
+      "fat": 9.5
+    },
+    {
+      "id": "f4",
+      "name": "Abóbora cozida",
+      "kcal": 48,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0.2
+    },
+    {
+      "id": "f5",
+      "name": "Batata cozida",
+      "kcal": 52,
+      "protein": 1.2,
+      "carbs": 11.9,
+      "fat": 0.1
+    },
+    {
+      "id": "f6",
+      "name": "Banana",
+      "kcal": 89,
+      "protein": 1.1,
+      "carbs": 22.8,
+      "fat": 0.3
+    },
+    {
+      "id": "f7",
+      "name": "Maçã",
+      "kcal": 52,
+      "protein": 0.3,
+      "carbs": 13.8,
+      "fat": 0.2
+    },
+    {
+      "id": "f8",
+      "name": "Mamão",
+      "kcal": 43,
+      "protein": 0.5,
+      "carbs": 10.8,
+      "fat": 0.3
+    },
+    {
+      "id": "f9",
+      "name": "Leite integral",
+      "kcal": 61,
+      "protein": 3.2,
+      "carbs": 4.8,
+      "fat": 3.3
+    },
+    {
+      "id": "f10",
+      "name": "Goiabada",
+      "kcal": 286,
+      "protein": 0.4,
+      "carbs": 72,
+      "fat": 0.1
+    },
+    {
+      "id": "f11",
+      "name": "Macarrão cozido",
+      "kcal": 157,
+      "protein": 5.8,
+      "carbs": 30.9,
+      "fat": 0.9
+    },
+    {
+      "id": "f12",
+      "name": "Carne bovina cozida",
+      "kcal": 215,
+      "protein": 28,
+      "carbs": 0,
+      "fat": 11
+    },
+    {
+      "id": "f13",
+      "name": "Cenoura crua",
+      "kcal": 41,
+      "protein": 0.9,
+      "carbs": 9.6,
+      "fat": 0.2
+    },
+    {
+      "id": "f14",
+      "name": "Tomate",
+      "kcal": 18,
+      "protein": 0.9,
+      "carbs": 3.9,
+      "fat": 0.2
+    },
+    {
+      "id": "f15",
+      "name": "Alface",
+      "kcal": 15,
+      "protein": 1.4,
+      "carbs": 2.9,
+      "fat": 0.2
+    },
+    {
+      "id": "f16",
+      "name": "Repolho",
+      "kcal": 25,
+      "protein": 1.3,
+      "carbs": 5.8,
+      "fat": 0.1
+    },
+    {
+      "id": "f17",
+      "name": "Cebola",
+      "kcal": 40,
+      "protein": 1.1,
+      "carbs": 9.3,
+      "fat": 0.1
+    },
+    {
+      "id": "f18",
+      "name": "Azeite",
+      "kcal": 884,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100
+    },
+    {
+      "id": "f19",
+      "name": "Café sem açúcar",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    },
+    {
+      "id": "17938535955922syc",
+      "name": "Torrone Montevérgine (Amendoim e Limão Siciliano)",
+      "kcal": 367,
+      "protein": 1.5,
+      "carbs": 35,
+      "fat": 2.1
+    }
+  ],
+  "meals": [
+    {
+      "id": "17938534521490wjo",
+      "date": "2026-11-05",
+      "meal": "Café da manhã",
+      "name": "Ovo inteiro",
+      "grams": 100,
+      "kcal": 143,
+      "protein": 12.6,
+      "carbs": 0.7,
+      "fat": 9.5
+    },
+    {
+      "id": "1793853612243tdae",
+      "date": "2026-11-05",
+      "meal": "Lanche",
+      "name": "Torrone Montevérgine (Amendoim e Limão Siciliano)",
+      "grams": 45,
+      "kcal": 165.15,
+      "protein": 0.675,
+      "carbs": 15.75,
+      "fat": 0.945
+    },
+    {
+      "id": "1793853682794biak",
+      "date": "2026-11-05",
+      "meal": "Almoço",
+      "name": "Arroz branco cozido",
+      "grams": 300,
+      "kcal": 384,
+      "protein": 7.5,
+      "carbs": 84.3,
+      "fat": 0.6
+    },
+    {
+      "id": "1793853687313jwh0",
+      "date": "2026-11-05",
+      "meal": "Jantar",
+      "name": "Arroz branco cozido",
+      "grams": 100,
+      "kcal": 128,
+      "protein": 2.5,
+      "carbs": 28.1,
+      "fat": 0.2
+    },
+    {
+      "id": "1793853700097r4i0",
+      "date": "2026-11-05",
+      "meal": "Almoço",
+      "name": "Feijão carioca cozido",
+      "grams": 100,
+      "kcal": 76,
+      "protein": 4.8,
+      "carbs": 13.6,
+      "fat": 0.5
+    },
+    {
+      "id": "1793853715681el79",
+      "date": "2026-11-05",
+      "meal": "Jantar",
+      "name": "Feijão carioca cozido",
+      "grams": 100,
+      "kcal": 76,
+      "protein": 4.8,
+      "carbs": 13.6,
+      "fat": 0.5
+    },
+    {
+      "id": "17938537327987sow",
+      "date": "2026-11-05",
+      "meal": "Almoço",
+      "name": "Abóbora cozida",
+      "grams": 200,
+      "kcal": 96,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 0.4
+    },
+    {
+      "id": "1793853757850x1nb",
+      "date": "2026-11-05",
+      "meal": "Café da manhã",
+      "name": "Abóbora cozida",
+      "grams": 200,
+      "kcal": 96,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 0.4
+    },
+    {
+      "id": "1793853769682jo6t",
+      "date": "2026-11-05",
+      "meal": "Café da manhã",
+      "name": "Peito de frango grelhado",
+      "grams": 80,
+      "kcal": 132,
+      "protein": 24.8,
+      "carbs": 0,
+      "fat": 2.88
+    },
+    {
+      "id": "1793853807269ntf2",
+      "date": "2026-11-05",
+      "meal": "Café da manhã",
+      "name": "Peito de frango grelhado",
+      "grams": 90,
+      "kcal": 148.5,
+      "protein": 27.9,
+      "carbs": 0,
+      "fat": 3.24
+    },
+    {
+      "id": "1793853833688khp3",
+      "date": "2026-11-05",
+      "meal": "Café da manhã",
+      "name": "Maçã",
+      "grams": 80,
+      "kcal": 41.6,
+      "protein": 0.24,
+      "carbs": 11.04,
+      "fat": 0.16
+    }
+  ],
+  "exercises": [],
+  "water": [
+    {
+      "id": "1793853336410quwn",
+      "date": "2026-11-05",
+      "ml": 500
+    },
+    {
+      "id": "17938533370951cis",
+      "date": "2026-11-05",
+      "ml": 500
+    },
+    {
+      "id": "1793853337313alx6",
+      "date": "2026-11-05",
+      "ml": 500
+    },
+    {
+      "id": "1793853337710jzm0",
+      "date": "2026-11-05",
+      "ml": 500
+    },
+    {
+      "id": "1793853338223pnw3",
+      "date": "2026-11-05",
+      "ml": 500
+    },
+    {
+      "id": "1793853338479judn",
+      "date": "2026-11-05",
+      "ml": 500
+    },
+    {
+      "id": "17938533386994ubm",
+      "date": "2026-11-05",
+      "ml": 500
+    }
+  ],
+  "weights": [],
+  "checks": {
+    "2026-11-05": {
+      "diet": true,
+      "workout1": true,
+      "noScroll": true,
+      "water": true,
+      "alcohol": true,
+      "outdoor": true,
+      "read": true,
+      "photo": true
+    }
+  },
+  "steps": []
+}
